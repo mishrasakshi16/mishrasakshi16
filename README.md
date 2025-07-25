@@ -7,7 +7,7 @@
 - 💬 Ask me about *Python, Machine Learning, Digital Electronics, and Microcontrollers*  
 - 🎯 Goal: To become a skilled *Robotics Engineer* building intelligent automation systems  
 - 📫 How to reach me: *sm16112004@gmail.com*  
-- 🔗 LinkedIn: [Add your LinkedIn link here]
+- 🔗 LinkedIn: https://in.linkedin.com/in/sakshi-mishra-03788925b
 
 ---
 
